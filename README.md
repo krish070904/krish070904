@@ -197,8 +197,6 @@ Comprehensive health monitoring platform combining dual AI models for disease de
 
 ### 2️⃣ **CREDLO – Intelligent Loan Recommendation System** 💰
 
-<img align="left" alt="Finance AI" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
 **🔗 Tech:** MERN Stack | Python | Figma | LLM Integration  
 **📅 Timeline:** Jul 2025 - Oct 2025
 
