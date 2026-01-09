@@ -1,28 +1,28 @@
 <div align="center">
 
-<!-- Header with Aesthetic Color Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=KRISHNA%20WABLE&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=6B5B95&color=gradient&customColorList=24" width="100%"/>
+<!-- Midnight Graphite Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=KRISHNA%20WABLE&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=E6EDF3&color=0D1117&section=header" width="100%"/>
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=6B5B95&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;MERN+Stack+%7C+AI%2FML+%7C+LLM+Fine-Tuning+%F0%9F%9A%80;Transforming+Ideas+into+Production-Ready+Solutions+%E2%9C%A8" alt="Typing Animation" />
+<!-- Animated Typing Effect with Midnight Graphite Colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;MERN+Stack+%7C+AI%2FML+%7C+LLM+Fine-Tuning+%F0%9F%9A%80;Transforming+Ideas+into+Production-Ready+Solutions+%E2%9C%A8" alt="Typing Animation" />
 
-<!-- Social Badges with Aesthetic Colors -->
+<!-- Social Badges with Midnight Graphite Theme -->
 <p align="center">
   <a href="https://linkedin.com/in/krishna-wable">
-    <img src="https://img.shields.io/badge/LinkedIn-6B5B95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&borderColor=30363D" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/krish070904">
-    <img src="https://img.shields.io/badge/GitHub-C8A5C0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&borderColor=30363D" alt="GitHub"/>
   </a>
   <a href="mailto:krishna.official0717@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E3C5C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&borderColor=30363D" alt="Email"/>
   </a>
   <a href="tel:+919623082674">
-    <img src="https://img.shields.io/badge/Phone-F5EBE0?style=for-the-badge&logo=phone&logoColor=6B5B95" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-0D1117?style=for-the-badge&logo=phone&logoColor=8B949E&borderColor=30363D" alt="Phone"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=krish070904&label=Profile%20Views&color=C8A5C0&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=krish070904&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
@@ -121,10 +121,10 @@ Performance Optimization
 
 **Tech Stack:**
 <br/><br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&borderColor=30363D)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-0D1117?style=flat-square&logoColor=FFD21E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933&borderColor=30363D)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688&borderColor=30363D)
 
 </td>
 </tr>
@@ -170,12 +170,12 @@ A comprehensive health monitoring platform with AI-powered disease detection and
 
 **🛠️ Tech Stack:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=30363D)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=30363D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=30363D)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&borderColor=30363D)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=30363D)
 
 **🎨 Highlights:**
 - Deep Learning (CNN)
@@ -228,12 +228,12 @@ An intelligent loan recommendation system that helps users make informed financi
 
 **🛠️ Tech Stack:**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=30363D)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=30363D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=30363D)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=30363D)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&borderColor=30363D)
 
 **🎨 Highlights:**
 - Algorithm Implementation
@@ -280,9 +280,9 @@ Cloud-based automation tool for Instagram content management with AI-powered cap
 
 **🛠️ Tech Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4&borderColor=30363D)
+![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=58A6FF&borderColor=30363D)
 
 **🎨 Highlights:**
 - Cloud Automation
@@ -304,56 +304,56 @@ Cloud-based automation tool for Instagram content management with AI-powered cap
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=30363D" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&borderColor=30363D" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=30363D" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=30363D" alt="CSS3"/>
 </p>
 
 ### **Web Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=30363D" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=30363D" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=E6EDF3&borderColor=30363D" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=30363D" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&borderColor=30363D" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&borderColor=30363D" alt="REST API"/>
 </p>
 
 ### **AI & Machine Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/CNN-00599C?style=for-the-badge&logo=deeplearning&logoColor=white" alt="CNN"/>
-  <img src="https://img.shields.io/badge/LoRA-8E75B2?style=for-the-badge&logo=ai&logoColor=white" alt="LoRA"/>
-  <img src="https://img.shields.io/badge/PEFT-6B5B95?style=for-the-badge&logo=ai&logoColor=white" alt="PEFT"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&borderColor=30363D" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&borderColor=30363D" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&borderColor=30363D" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&borderColor=30363D" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/CNN-0D1117?style=for-the-badge&logo=deeplearning&logoColor=58A6FF&borderColor=30363D" alt="CNN"/>
+  <img src="https://img.shields.io/badge/LoRA-0D1117?style=for-the-badge&logo=ai&logoColor=8B949E&borderColor=30363D" alt="LoRA"/>
+  <img src="https://img.shields.io/badge/PEFT-0D1117?style=for-the-badge&logo=ai&logoColor=58A6FF&borderColor=30363D" alt="PEFT"/>
 </p>
 
 ### **Databases & Cloud**
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=30363D" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-0D1117?style=for-the-badge&logo=mongodb&logoColor=13AA52&borderColor=30363D" alt="MongoDB Atlas"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&borderColor=30363D" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4&borderColor=30363D" alt="GCP"/>
 </p>
 
 ### **Tools & Design**
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&borderColor=30363D" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&borderColor=30363D" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&borderColor=30363D" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&borderColor=30363D" alt="Figma"/>
 </p>
 
 ### **Core Competencies**
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures-6B5B95?style=for-the-badge&logo=datastructures&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Algorithms-C8A5C0?style=for-the-badge&logo=algorithms&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/OOP-E3C5C5?style=for-the-badge&logo=oop&logoColor=white" alt="OOP"/>
-  <img src="https://img.shields.io/badge/System_Design-F5EBE0?style=for-the-badge&logo=design&logoColor=6B5B95" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=for-the-badge&logo=datastructures&logoColor=58A6FF&borderColor=30363D" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Algorithms-0D1117?style=for-the-badge&logo=algorithms&logoColor=58A6FF&borderColor=30363D" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=oop&logoColor=8B949E&borderColor=30363D" alt="OOP"/>
+  <img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=design&logoColor=E6EDF3&borderColor=30363D" alt="System Design"/>
 </p>
 
 ---
@@ -399,25 +399,25 @@ Year: 2020
 <tr>
 <td align="center" width="25%">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)<br/>
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&borderColor=30363D)<br/>
 **AWS Cloud Foundations**
 
 </td>
 <td align="center" width="25%">
 
-![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=for-the-badge&logo=stanford&logoColor=white)<br/>
+![Stanford](https://img.shields.io/badge/Stanford-0D1117?style=for-the-badge&logo=stanford&logoColor=8C1515&borderColor=30363D)<br/>
 **Machine Learning Specialization**
 
 </td>
 <td align="center" width="25%">
 
-![Accenture](https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white)<br/>
+![Accenture](https://img.shields.io/badge/Accenture-0D1117?style=for-the-badge&logo=accenture&logoColor=A100FF&borderColor=30363D)<br/>
 **UI/UX Design**
 
 </td>
 <td align="center" width="25%">
 
-![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6C37?style=for-the-badge&logo=simplilearn&logoColor=white)<br/>
+![Simplilearn](https://img.shields.io/badge/Simplilearn-0D1117?style=for-the-badge&logo=simplilearn&logoColor=FF6C37&borderColor=30363D)<br/>
 **Full-Stack Development**
 
 </td>
@@ -430,15 +430,15 @@ Year: 2020
 
 ## 📊 **GitHub Analytics**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C8A5C0&icon_color=6B5B95&text_color=F5EBE0&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=krish070904&theme=radical&hide_border=true&background=0D1117&ring=C8A5C0&fire=E3C5C5&currStreakLabel=6B5B95&sideLabels=F5EBE0&dates=F5EBE0" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&count_private=true&include_all_commits=true&border_color=30363D" alt="GitHub Stats"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=krish070904&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&border=30363D" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=radical&hide_border=true&bg_color=0D1117&title_color=C8A5C0&text_color=F5EBE0&layout=compact&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&theme=react-dark&hide_border=true&bg_color=0D1117&color=C8A5C0&line=6B5B95&point=F5EBE0" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&layout=compact&langs_count=8&border_color=30363D" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&border_color=30363D" alt="Contribution Graph"/>
 
 ## 🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=krish070904&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,MultiLanguage" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krish070904&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,MultiLanguage" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -519,7 +519,7 @@ Volunteer
 
 ## 💡 **Dev Quote of the Day**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
 </div>
 
@@ -543,8 +543,8 @@ Volunteer
 
 ### ✨ **"Transforming ideas into intelligent, scalable solutions"** ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&fontColor=E6EDF3&section=footer" width="100%"/>
 
-**⭐ From [Krishna Wable](https://github.com/krish070904) | Building the Future, One Commit at a Time 💜**
+**⭐ From [Krishna Wable](https://github.com/krish070904) | Building the Future, One Commit at a Time �**
 
 </div>
