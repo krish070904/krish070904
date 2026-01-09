@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=KRISHNA%20WABLE&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=E6EDF3&color=0D1117&section=header" width="100%"/>
 
 <!-- Animated Typing Effect with Midnight Graphite Colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI/ML+Engineer+%7C+LLM+Fine-Tuning+Specialist+🧠;Building+Production-Ready+Intelligent+Systems+🚀;MERN+Stack+%7C+Deep+Learning+%7C+Cloud+Architecture+⚡" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI/ML+Engineer+%7C+LLM+Fine-Tuning+Specialist;Building+Production-Ready+Intelligent+Systems;MERN+Stack+%7C+Deep+Learning+%7C+Cloud+Architecture" alt="Typing Animation" />
 
 <!-- Social Badges with Midnight Graphite Theme -->
 <p align="center">
@@ -385,11 +385,11 @@ Cloud-based automation tool for Instagram content management with AI-powered cap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&count_private=true&include_all_commits=true&border_color=30363D" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=krish070904&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&border=30363D" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krish070904&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&layout=compact&langs_count=8&border_color=30363D" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&border_color=30363D" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3" alt="Contribution Graph"/>
 
 ## 🏆 **GitHub Trophies**
 
@@ -452,11 +452,7 @@ Manual Work<br/>Reduction
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish070904/krish070904/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish070904/krish070904/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krish070904/krish070904/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/krish070904/krish070904/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
