@@ -385,11 +385,11 @@ Cloud-based automation tool for Instagram content management with AI-powered cap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krish070904&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=krish070904&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&layout=compact&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&theme=transparent&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=krish070904&theme=transparent&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&layout=compact" alt="Coding Activity"/>
 
 ## 🏆 **GitHub Trophies**
 
@@ -448,11 +448,11 @@ Manual Work<br/>Reduction
 
 <div align="center">
 
-## 🐍 **Contribution Graph**
+## � **Contribution Activity**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-![snake gif](https://github.com/krish070904/krish070904/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krish070904&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&area_color=58A6FF&area=true&hide_border=true&title_color=58A6FF" width="100%" alt="Contribution Graph"/>
 
 </div>
 
