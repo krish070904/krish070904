@@ -383,53 +383,6 @@ Cloud-based automation tool for Instagram content management with AI-powered cap
 
 <div align="center">
 
-## 🌟 **Key Achievements**
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-
-### **15%**
-LLM Response<br/>Accuracy Boost
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-ddca-44f7-a8e6-369547c5fa65.gif" width="100">
-
-### **92%**
-Disease Detection<br/>Accuracy
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
-
-### **140+**
-Automated<br/>Posts
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-
-### **70%**
-Manual Work<br/>Reduction
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 🐍 **Contribution Graph**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
