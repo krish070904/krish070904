@@ -1,19 +1,22 @@
 <div align="center">
 
-<!-- Cool Tech Background Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<!-- Custom Neural Network Background -->
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
+
+<!-- Particle Effect Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
 
 <!-- Midnight Graphite Header with Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=KRISHNA%20WABLE&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=E6EDF3&color=0D1117&section=header" width="100%"/>
 
-<!-- Tech Animation Below Name -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Holographic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
 
 <!-- Animated Typing Effect with Midnight Graphite Colors -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI/ML+Engineer+%7C+LLM+Fine-Tuning+Specialist;Building+Production-Ready+Intelligent+Systems;MERN+Stack+%7C+Deep+Learning+%7C+Cloud+Architecture" alt="Typing Animation" />
 
-<!-- Animated Tech Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<!-- Circuit Board Pattern -->
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
 
 <!-- Social Badges with Midnight Graphite Theme -->
 <p align="center">
@@ -33,8 +36,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=krish070904&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
-<!-- Animated Bottom Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- AI Brain Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
 
 </div>
 
