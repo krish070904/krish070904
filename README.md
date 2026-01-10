@@ -53,12 +53,7 @@ const krishnaWable = {
         specialization: "Building intelligent, scalable production systems"
     },
     
-    achievements: {
-        llm_optimization: "15% response accuracy improvement",
-        disease_detection: "92% accuracy AI model",
-        automation: "140+ automated Instagram posts",
-        impact: "Reduced manual intervention by 70%"
-    },
+    
     
     mindset: "Turning complex problems into elegant solutions 🚀"
 };
