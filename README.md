@@ -222,19 +222,6 @@ High-performance monitoring dashboard integrating 5+ manufacturing REST APIs wit
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=krish070904&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 Certifications
 
 </div>
