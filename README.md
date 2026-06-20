@@ -1,25 +1,14 @@
 <div align="center">
 
-<!-- Custom Animated Header Background -->
-<img src="./header.svg" width="100%" alt="Header">
+<img src="./header.svg" width="100%" alt="Krishna Wable">
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI/ML+Engineer+%7C+LLM+Fine-Tuning+Specialist;Building+Production-Ready+Intelligent+Systems;MERN+Stack+%7C+Deep+Learning+%7C+Cloud+Architecture" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+production+systems+at+Bosch+Industry+4.0;MERN+%2B+Django+%2B+FastAPI+%7C+LLM+%26+Voice+Integrations;Shipping+code+that+saves+%E2%82%B90.2M%2Fmonth+in+real+factories" alt="Typing Animation" />
 
-<!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/krishna-wable">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&borderColor=30363D" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/krish070904">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&borderColor=30363D" alt="GitHub"/>
-  </a>
-  <a href="mailto:krishna.official0717@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&borderColor=30363D" alt="Email"/>
-  </a>
-  <a href="tel:+919623082674">
-    <img src="https://img.shields.io/badge/Phone-0D1117?style=for-the-badge&logo=phone&logoColor=8B949E&borderColor=30363D" alt="Phone"/>
-  </a>
+  <a href="https://linkedin.com/in/krishna-wable"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&borderColor=30363D" alt="LinkedIn"/></a>
+  <a href="https://github.com/krish070904"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&borderColor=30363D" alt="GitHub"/></a>
+  <a href="https://buildwithkrishna.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&borderColor=30363D" alt="Portfolio"/></a>
+  <a href="mailto:krishna.wable.mail@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&borderColor=30363D" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=krish070904&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
@@ -28,34 +17,34 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 ```javascript
 const krishnaWable = {
-    role: "AI/ML Engineer & Full-Stack Developer",
-    location: "Nashik, Maharashtra 🇮🇳",
-    education: "B.Tech CSE | CGPA: 8.16/10 | K.K. Wagh Institute",
-    
-    currentWork: {
-        company: "Samsara Wellness",
-        position: "AI/ML Intern",
-        focus: "LLM Fine-tuning & Mental Health AI",
-        impact: "15% accuracy improvement using LoRA & PEFT"
+    role: "Full-Stack Developer & AI/ML Engineer",
+    location: "Nashik, Maharashtra, India 🇮🇳",
+    education: "B.Tech CSE, K.K. Wagh IEER | CGPA: 8.18 | 2026",
+
+    currentlyBuilding: {
+        company: "Bosch Limited — Industry 4.0 Digitalization Team",
+        role: "Full Stack Developer Intern",
+        shipping: "Digital Shopfloor Records System & Paperless Document System",
+        impact: "~INR 0.2 Mn/month cost savings per department"
     },
-    
-    expertise: {
-        ai_ml: ["LLM Fine-tuning", "Deep Learning", "CNN", "PyTorch", "TensorFlow"],
-        backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-        frontend: ["React.js", "Redux", "Responsive Design"],
-        cloud: ["Google Cloud Platform", "MongoDB Atlas"],
-        specialization: "Building intelligent, scalable production systems"
+
+    stack: {
+        languages: ["Python", "JavaScript (ES6+)", "TypeScript", "C++"],
+        frontend: ["React.js", "Next.js", "Redux", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Django", "FastAPI"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "MS SQL Server"],
+        ai_ml: ["LLM Fine-tuning (LoRA/PEFT)", "OpenAI / Gemini / BioMistral", "STT-TTS pipelines", "PyTorch", "TensorFlow"],
+        cloud: ["Azure", "GCP", "Vercel", "Netlify", "Docker"]
     },
-    
-    
-    
-    mindset: "Turning complex problems into elegant solutions 🚀"
+
+    currentFocus: "Open to Full-Stack, Backend, Frontend, and AI/ML roles 🎯",
+    funFact: "Turns paper-based factory workflows into production software 🏭➡️💻"
 };
 ```
 
@@ -63,28 +52,28 @@ const krishnaWable = {
 
 ---
 
-## 🎯 **What I Do**
+## 🎯 What I Do
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **AI/ML Engineering**
-- 🧠 Fine-tuning Large Language Models (LoRA, PEFT)
-- 📊 Building Deep Learning models (CNN, Neural Networks)
-- 🎯 Production ML deployment & optimization
-- 💬 Context-aware conversational AI systems
-- 📈 Achieving measurable impact (15% accuracy gains)
+### 🌐 Full-Stack Engineering
+- ⚡ Production apps with React/Next.js + Django/Node.js
+- 🔌 RESTful API design — 70+ APIs shipped across projects
+- 🔐 RBAC, JWT auth, role-based enterprise systems
+- ☁️ CI/CD pipelines, cloud deployment (Azure, Vercel)
+- 📊 Real-time dashboards & data visualization
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 **Full-Stack Development**
-- ⚡ MERN Stack applications (React, Node.js, MongoDB)
-- 🔌 RESTful API design & FastAPI backends
-- ☁️ Cloud-native architecture (GCP, MongoDB Atlas)
-- 🎨 UI/UX design with Figma
-- 🚀 Scalable, production-ready solutions
+### 🤖 AI/ML & LLM Engineering
+- 🧠 LLM fine-tuning with LoRA & PEFT (Hugging Face)
+- 💬 Multi-turn conversational memory systems
+- 🗣️ STT/TTS voice pipeline integration
+- 🩺 Domain-specific AI (BioMistral, ResNet-50, Gemini)
+- 📈 Measurable gains — 15% accuracy improvement, 30% lower latency
 
 </td>
 </tr>
@@ -94,104 +83,159 @@ const krishnaWable = {
 
 <div align="center">
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="650">
 
 </div>
 
-### 🏢 **AI/ML Intern** @ Samsara Wellness
-**📅 Jun 2025 - Present** | **📍 Remote**
+### 🏢 Full Stack Developer Intern — Bosch Limited, Nashik
+**📅 Jan 2026 – Jun 2026** | **Industry 4.0 Digitalization Team**
+
+- 🏭 Built production full-stack apps (Next.js + Django) for shopfloor digitalization — live interactive dashboards, real-time monitoring, configurable alerts
+- 🤖 Designed AI-powered form generation using OpenAI APIs with async pipelines, cutting manual paperwork significantly
+- 🔐 Shipped RBAC interfaces, reusable React/TypeScript components, and API-driven workflows for an enterprise records platform
+- 💰 Contributed to **~INR 0.2 Mn/month** cost savings per department
+- 🛠️ Configured NEXEED MES & CM Control systems supporting the COMBAS digital transformation
+- 🤝 Collaborated cross-functionally in Agile sprints; built a Genie-based use case at the internal NaP Hackathon 2026
+
+**Tech:** ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E6EDF3) ![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=092E20) ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=E6EDF3) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+
+### 🤖 AI/ML Intern — Samsara Wellness
+**📅 Jun 2025 – Dec 2025** | **Remote**
+
+- 🔬 Fine-tuned LLMs with LoRA & PEFT for a production mental-health chatbot — **15% accuracy improvement**
+- 🧠 Engineered multi-turn context-retention system (last 50 conversations) in Node.js
+- 💬 Built an empathetic, context-aware conversational AI integrated with STT/TTS pipelines
+- ✅ Ran functional & end-to-end testing, tracked issues in Jira, validated AI outputs for reliability
+
+**Tech:** ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![HuggingFace](https://img.shields.io/badge/🤗_HF-0D1117?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
-<td width="65%">
+<td width="50%" valign="top">
 
-**🎯 Key Achievements:**
-- 🔬 **Fine-tuned LLM** using LoRA and PEFT techniques for mental health chatbot
-- 📈 **15% improvement** in response accuracy through model optimization
-- 🧠 **Engineered context retention** system for last 50 conversations using Node.js
-- 💬 Built **empathetic, context-aware** multi-turn conversation system
-- ⚡ **Production deployment** of optimized AI models
+### 🏭 Digital Shopfloor Records System
+**Django · Next.js · OpenAI · REST APIs · RBAC**
 
-**💡 Impact:**
-Improved user experience for mental health support through intelligent, context-aware responses that maintain conversation history and provide empathetic guidance.
+Production-grade enterprise app replacing paper-based shopfloor workflows across multiple manufacturing departments — 28+ REST APIs, AI-powered form generation, RBAC across user levels.
+
+📊 **~INR 0.2 Mn/month** saved per department · Adopted in production at Bosch
 
 </td>
-<td width="35%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280">
+### 🩺 HealthSync — Smart Healthcare Platform
+**MERN · FastAPI · BioMistral 7B · ResNet-50 · Twilio**
 
-**Tech Stack:**
+Full-stack healthcare platform with 35+ REST APIs, JWT auth, automated health monitoring, AI symptom analysis, and SMS/email alerts.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/🤗_HF-0D1117?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+🔗 [healthsync-care.vercel.app](https://healthsync-care.vercel.app) · [GitHub](https://github.com/krish070904/HEALTHSYNC_MERN)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 CredLo — Smart Loan & Credit Assistant
+**MERN · FastAPI · Python · Gemini**
+
+LLM-powered loan recommendation engine using AHP and Fuzzy TOPSIS algorithms, ranking products across rate, tenure, and eligibility via 11+ REST APIs.
+
+🔗 [credlo.framer.website](https://credlo.framer.website) · [GitHub](https://github.com/krish070904/CredLo)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 CM Control Dashboard
+**Next.js · REST APIs · Data Visualization**
+
+High-performance monitoring dashboard integrating 5+ manufacturing REST APIs with interactive charts — deployed across 7 assembly & testing lines.
+
+⚡ 35% smaller bundle via code splitting · LCP under 2.5s
 
 </td>
 </tr>
 </table>
 
 ---
+
 <div align="center">
 
-## 💻 **Tech Stack**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+## 💻 Tech Stack
 
 </div>
 
-### **Programming Languages**
+**Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=30363D" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&borderColor=30363D" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=30363D" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=30363D" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&borderColor=30363D"/>
 </p>
 
-### **AI & Machine Learning**
+**Frontend**
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&borderColor=30363D" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&borderColor=30363D" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&borderColor=30363D" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&borderColor=30363D" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LoRA-0D1117?style=for-the-badge&logo=ai&logoColor=8B949E&borderColor=30363D" alt="LoRA"/>
-  <img src="https://img.shields.io/badge/PEFT-0D1117?style=for-the-badge&logo=ai&logoColor=58A6FF&borderColor=30363D" alt="PEFT"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=30363D"/>
 </p>
 
-### **Web Development**
+**Backend**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=30363D" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=30363D" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=E6EDF3&borderColor=30363D" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=30363D" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&borderColor=30363D" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=E6EDF3&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=30363D"/>
 </p>
 
-### **Databases & Cloud**
+**AI / Machine Learning**
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=30363D" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&borderColor=30363D" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4&borderColor=30363D" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&borderColor=30363D" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&borderColor=30363D" alt="Figma"/>
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=E6EDF3&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&borderColor=30363D"/>
+</p>
+
+**Databases & Cloud**
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&borderColor=30363D"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&borderColor=30363D"/>
 </p>
 
 ---
 
 <div align="center">
 
-## 🏆 **Certifications**
+## 📊 GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krish070904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=krish070904&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish070904&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Certifications
 
 </div>
 
@@ -205,7 +249,7 @@ Improved user experience for mental health support through intelligent, context-
 </td>
 <td align="center" width="25%">
 
-![Stanford](https://img.shields.io/badge/Stanford-0D1117?style=for-the-badge&logo=stanford&logoColor=8C1515&borderColor=30363D)<br/>
+![Stanford](https://img.shields.io/badge/Stanford-0D1117?style=for-the-badge&logoColor=8C1515&borderColor=30363D)<br/>
 **ML Specialization**
 
 </td>
@@ -217,24 +261,20 @@ Improved user experience for mental health support through intelligent, context-
 </td>
 <td align="center" width="25%">
 
-![Simplilearn](https://img.shields.io/badge/Simplilearn-0D1117?style=for-the-badge&logo=simplilearn&logoColor=FF6C37&borderColor=30363D)<br/>
+![Simplilearn](https://img.shields.io/badge/Simplilearn-0D1117?style=for-the-badge&logoColor=FF6C37&borderColor=30363D)<br/>
 **Full-Stack Dev**
 
 </td>
 </tr>
 </table>
 
-
 ---
-
 
 <div align="center">
 
-## 🐍 **Contribution Graph**
+## 🐍 Contribution Graph
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-![snake gif](https://raw.githubusercontent.com/krish070904/krish070904/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/krish070904/krish070904/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -242,26 +282,10 @@ Improved user experience for mental health support through intelligent, context-
 
 <div align="center">
 
-## 💡 **Dev Quote**
+### ✨ "Turning ideas into production systems — one shopfloor at a time" ✨
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&fontColor=E6EDF3&section=footer" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-
-### ✨ **"Building intelligent systems that make a real difference"** ✨
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&fontColor=E6EDF3&section=footer" width="100%"/>
-
-**⭐ From [Krishna Wable](https://github.com/krish070904) | Turning Ideas into Impact 🖤**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+**⭐ From [Krishna Wable](https://github.com/krish070904) — Let's build something great**
 
 </div>
